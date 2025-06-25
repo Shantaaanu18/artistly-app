@@ -15,7 +15,7 @@ const categories = [
 export default function HomePage() {
   return (
     <main className="min-h-screen flex flex-col bg-gradient-to-br from-white to-blue-50">
-      {/* Logo */}
+      
       <Image
         src="/logo-a-star.png"
         alt="Artistly Logo"
@@ -24,14 +24,14 @@ export default function HomePage() {
         className="fixed top-6 left-8 rounded-2xl shadow-xl bg-white p-2 z-50 border border-gray-200"
       />
 
-      {/* Heading */}
+      
       <div className="w-full flex flex-col items-center justify-center pt-10 pb-4 animate-fade-in-down gap-2">
         <h1 className="text-6xl sm:text-7xl font-extrabold tracking-normal bg-gradient-to-r from-blue-600 via-pink-500 to-yellow-400 text-transparent bg-clip-text drop-shadow-lg select-none pr-4">
           artis<span className="mr-1">t</span><span className="mr-2">ly</span><span className="font-black mr-2">.com</span>
         </h1>
       </div>
 
-      {/* CTA Section */}
+      
       <div className="flex-1 flex flex-col items-center justify-center w-full">
         <div className="w-full max-w-7xl px-4 flex flex-col items-center">
           <header className="w-full py-10 flex flex-col items-center">
@@ -50,7 +50,7 @@ export default function HomePage() {
             </Link>
           </header>
 
-          {/* Categories */}
+          
           <section className="w-full max-w-6xl mt-14 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10">
             {categories.map((cat, i) => (
               <Link
@@ -67,7 +67,7 @@ export default function HomePage() {
         </div>
       </div>
 
-      {/* Footer */}
+      
       <footer className="w-full mt-auto py-8 text-center text-gray-400 text-base">
         &copy; {new Date().getFullYear()} Artistly.com &mdash; Connecting Events & Artists
       </footer>

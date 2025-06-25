@@ -12,7 +12,7 @@ interface Artist {
   photo: string
 }
 
-// Group artists by category
+
 function groupByCategory(artists: Artist[]) {
   return artists.reduce((groups: Record<string, Artist[]>, artist) => {
     const cat = artist.category
