@@ -15,11 +15,7 @@ interface ArtistFormData {
 }
 
 export default function OnboardingForm() {
-  const {
-    register,
-    handleSubmit,
-    watch,
-  } = useForm<ArtistFormData>({
+  const { register, handleSubmit, watch } = useForm<ArtistFormData>({
     resolver: yupResolver(artistFormSchema),
   });
 
@@ -53,6 +49,7 @@ export default function OnboardingForm() {
               width={128}
               height={128}
               className="rounded-full border-2 border-gray-300 object-cover"
+              onError={(e) => (e.currentTarget.src = "/fallback.jpg")}
             />
           </div>
         )}
