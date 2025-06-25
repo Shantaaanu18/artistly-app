@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "name": "Udyan Sagar (Nucleya)",
+    "category": "DJs",
+    "bio": "Pioneer of desi‑bass EDM; known for Koocha Monster, Bass Rani, Raja Baja. Has performed at EDC Las Vegas, Sunburn, and opened for Skrillex & Major Lazer.",
+    "location": "Ahmedabad/Mumbai",
+    "priceRange": "₹1L–₹5L+",
+    "photo": "https://img.redbull.com/images/c_crop,x_1015,y_0,h_2133,w_1280/c_fill,w_400,h_660/q_auto:low,f_auto/redbullcom/2020/2/25/h9pjkouue7vc8v4biqtq/nucleya"
+  },
+  {
+    "id": 2,
+    "name": "Nikhil Sahni (DJ NYK)",
+    "category": "DJs",
+    "bio": "Bollywood remix specialist; collaborated with Akon on 'Chammak Challo'; awarded VH1 MyFav ‘Best Hollywood DJ’ multiple times.",
+    "location": "Delhi",
+    "priceRange": "₹50k–₹2L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXMRQ5NSJKG6u9IolrIDdt7EiytAZRnGoCBQ&s"
+  },
+  {
+    "id": 3,
+    "name": "Chetas Shah (DJ Chetas)",
+    "category": "DJs",
+    "bio": "First Indian DJ in DJ Mag Top 100; known for Bollywood mashups and remixes like Baby Ko Bass Pasand Hai, Iqraar By Chance.",
+    "location": "Mumbai",
+    "priceRange": "₹50k–₹2L",
+    "photo": "https://representmgmt.in/storage/uploads/detail_page_img/1331142208_1689747986.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Anish Sood",
+    "category": "DJs",
+    "bio": "Deep‐house/progressive‑house DJ signed to Anjunadeep; supported David Guetta and won MyFav DJ of the Year.",
+    "location": "Goa",
+    "priceRange": "₹50k–₹2L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKPdFFagI3B5B-smO6_G5RIueFtWGXStfpvA&s"
+  },
+  {
+    "id": 5,
+    "name": "DJ Suketu (Suketu Radia)",
+    "category": "DJs",
+    "bio": "Renowned Bollywood DJ/producer; hit album 440 Volts; remixed Bin Tere Sanam, Woh Lamhe; collaborated with Flo Rida and Sean Kingston.",
+    "location": "Mumbai",
+    "priceRange": "₹50k–₹2L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1lJZoNhXq-OOs35pzL057CnJW7zNWC3DeA&s"
+  },
+  {
+    "id": 6,
+    "name": "Ma Faiza",
+    "category": "DJs",
+    "bio": "India’s ‘Mother of Electronica’; psychedelic‑trance DJ and queer rights advocate.",
+    "location": "Mumbai",
+    "priceRange": "₹30k–₹1L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNCOS3w9568kAQbNxF9E_0mJNe1t0AgtbEw&s"
+  },
+  {
+    "id": 7,
+    "name": "OG Shez",
+    "category": "DJs",
+    "bio": "Mumbai‑based female DJ featured by Mixmag; strong presence in underground and international club scenes.",
+    "location": "Mumbai",
+    "priceRange": "₹30k–₹1L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpYMH5SrvHxxvlwD8asbKuIHRTdcf7l0dJA&s"
+  },
+  {
+    "id": 8,
+    "name": "Rhythm Factory Dance Crew",
+    "category": "Dancers",
+    "bio": "Mumbai‑based troupe specializing in hip‑hop and Bollywood fusion; frequent performers at corporate events and weddings.",
+    "location": "Mumbai",
+    "priceRange": "₹50k–₹1L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovAeEeYeGir4OSbIcDJvbiUIgv4rsY_miNg&s"
+  },
+  {
+    "id": 9,
+    "name": "Blaaze",
+    "category": "Speakers",
+    "bio": "India’s first hip‑hop artiste in Tamil cinema; known for rap tracks in Slumdog Millionaire and speaking at youth forums.",
+    "location": "Chennai",
+    "priceRange": "₹1L–₹3L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivm3Ryxn7J33uUh7MCpG97X_yoanp4ADnlA&s"
+  },
+  {
+    "id": 10,
+    "name": "Arijit Singh",
+    "category": "Singers",
+    "bio": "One of India’s most celebrated playback singers; known for Tum Hi Ho, Channa Mereya, Kesariya. Winner of numerous Filmfare Awards and conferred Padma Shri in 2025.",
+    "location": "Mumbai",
+    "priceRange": "₹5L–₹15L",
+    "photo": "https://rukminim2.flixcart.com/image/850/1000/xif0q/painting/k/w/z/10-1-arijit-singh-crowdhall-original-imagx43g7nzmgfhx.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 11,
+    "name": "Shreya Ghoshal",
+    "category": "Singers",
+    "bio": "Playback singer with a voice often described as 'billowing silk'; winner of 4 National Awards and 7 Filmfares.",
+    "location": "Kolkata/Mumbai",
+    "priceRange": "₹5L–₹12L",
+    "photo": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-59260,resizemode-75,msid-120041935/magazines/panache/shreya-ghoshal-issues-warning-against-ai-generated-ads-and-fake-links-i-cannot-do-anything-about-it.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Lucky Ali",
+    "category": "Singers",
+    "bio": "Indipop legend of the ’90s; known for Sunoh and features on MTV Asia chart for 60 weeks.",
+    "location": "Mumbai",
+    "priceRange": "₹3L–₹8L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDt9HP_12NvOS1Afyiw0z2ssnY0AA80hxpDw&s"
+  },
+  {
+    "id": 13,
+    "name": "Sandeep Maheshwari",
+    "category": "Speakers",
+    "bio": "Renowned motivational speaker and entrepreneur; 27.7M YouTube subscribers; founder of ImageBazaar.",
+    "location": "Delhi",
+    "priceRange": "₹3L–₹7L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJVMvQIAKIXoUolhx8IN_5j0z1ZeFimnVBw&s"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Vivek Bindra",
+    "category": "Speakers",
+    "bio": "Asia’s top entrepreneurship coach on YouTube (~21M subs) and motivational speaker with multiple Guinness World Records.",
+    "location": "Gurgaon",
+    "priceRange": "₹3L–₹8L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9Npo1ohz3WsU1aDT_SfiDKGJy1N4A426vw&s"
+  },
+  {
+    "id": 15,
+    "name": "Gaur Gopal Das",
+    "category": "Speakers",
+    "bio": "Former IT engineer turned monk and global motivational speaker; author of multiple books like *Life's Amazing Secrets*.",
+    "location": "Pune",
+    "priceRange": "₹2L–₹5L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXRd0ElW1gZzDknlpyeq7TPMTu2cayYHZwA&s"
+  },
+  {
+    "id": 16,
+    "name": "BK Shivani",
+    "category": "Speakers",
+    "bio": "Spiritual mentor and motivational speaker from Brahma Kumaris; 6M+ YouTube subscribers; Nari Shakti awardee.",
+    "location": "Pune",
+    "priceRange": "₹2L–₹6L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFbCnTiQ2ix9KVjI-VjJGgR2CVQ2ptcLCoQ&s"
+  },
+  {
+    "id": 17,
+    "name": "Jay Shetty",
+    "category": "Speakers",
+    "bio": "Former monk turned global guru; author of bestselling books and host of top podcasts; spoken at Goop Summit.",
+    "location": "London/India",
+    "priceRange": "₹5L–₹12L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3uBWaeoiJM83VSC70uD_gdswURbHLzbdZg&s"
+  },
+  {
+    "id": 18,
+    "name": "Prakash Iyer",
+    "category": "Speakers",
+    "bio": "Leadership coach; ex-CEO of IPL team; motivational speaker focusing on teamwork and winning mindset.",
+    "location": "Mumbai",
+    "priceRange": "₹2L–₹5L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTffsQ5E3IWVGLPt-n83pbds4dw9R1XZ3Mm2g&s"
+  },
+  {
+    "id": 19,
+    "name": "Sadhguru (Jaggi Vasudev)",
+    "category": "Speakers",
+    "bio": "Yogic mystic, founder of Isha Foundation, bestselling author, and global speaker at world forums.",
+    "location": "Coimbatore",
+    "priceRange": "₹3L–₹10L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtxId8KTsZk6Jd8kobPW3-T8gxVc90RI4pw&s"
+  },
+  {
+    "id": 20,
+    "name": "Chetan Bhagat",
+    "category": "Speakers",
+    "bio": "Bestselling author and youth motivational speaker; formerly investment banker; hosts workshops across campuses.",
+    "location": "Delhi",
+    "priceRange": "₹2L–₹6L",
+    "photo": "https://yt3.googleusercontent.com/ytc/AIdro_kr4Xv6GpEaeOVO9n6gQ29NDGs4YuW2HJkGOSqaZ1IAoA=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 21,
+    "name": "DJ Shadow Dubai",
+    "category": "DJs",
+    "bio": "International DJ and music producer; collaborated with Pitbull, Sean Paul; performed across major global festivals.",
+    "location": "Dubai/Mumbai",
+    "priceRange": "₹2L–₹6L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSndMavo_nYuYLzU5M_A7iRKMXkQEQCtylz5Q&s"
+  },
+  {
+    "id": 22,
+    "name": "MJ5",
+    "category": "Dancers",
+    "bio": "Award-winning all-male dance group known for moonwalk style and robotic choreography; India’s Got Talent finalists.",
+    "location": "Mumbai",
+    "priceRange": "₹1L–₹3L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwIM8GMd5ZrZSpiJs7d2YKF1UwywZ1BabaSw&s"
+  },
+  {
+    "id": 23,
+    "name": "V Company",
+    "category": "Dancers",
+    "bio": "Winners of Dance Plus Season 1; known for massive synchronized troupe acts with over 50 members.",
+    "location": "Navi Mumbai",
+    "priceRange": "₹2L–₹5L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0QadZdUHXQ3w-DgoZRuK4Mkh0Z9gk6aeLQ&s"
+  },
+  {
+    "id": 24,
+    "name": "Desi Hoppers",
+    "category": "Dancers",
+    "bio": "Winners of World of Dance 2015; fusion of Indian and western street styles; featured on Ellen Show.",
+    "location": "Mumbai",
+    "priceRange": "₹2L–₹4L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOOEVFg7gp-fxGg8FDdcvZaI6ikn1hpX6Qw&s"
+  },
+  {
+    "id": 25,
+    "name": "Kings United India",
+    "category": "Dancers",
+    "bio": "World champions at World Hip Hop Dance Championship 2019; India’s leading hip-hop crew.",
+    "location": "Mumbai",
+    "priceRange": "₹5L–₹10L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkEqtZKyQ5d7ahEBJp2t5jJM5xJsobxQIBQ&s"
+  },
+  {
+    "id": 26,
+    "name": "House of Suraj",
+    "category": "Dancers",
+    "bio": "Los Angeles-based whacking/voguing troupe with Indian roots; featured in Step Up: Year of the Dance.",
+    "location": "Mumbai/LA",
+    "priceRange": "₹2L–₹5L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzG2fq1OgWUMvnT3SDnqknQShzs5aGwoN4Vw&s"
+  },
+  {
+    "id": 27,
+    "name": "Rimi Tomy Dance Crew",
+    "category": "Dancers",
+    "bio": "South India–based fusion crew; known for mixing classical with cinematic dance for stage shows.",
+    "location": "Kochi",
+    "priceRange": "₹1L–₹3L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mIQN8sfrzcz2_TymYS89JWeOz63BFa5JHw&s"
+  },
+  {
+    "id": 28,
+    "name": "TDA – The Dance Addicts",
+    "category": "Dancers",
+    "bio": "YouTube-famous troupe specializing in dance covers and wedding choreographies; trained by Terence Lewis alumni.",
+    "location": "Delhi",
+    "priceRange": "₹50k–₹2L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5WB7Ac0P9c_esy4ySBcDgLUBDFaImAJVsQ&s"
+  },
+  {
+    "id": 29,
+    "name": "Neha Kakkar",
+    "category": "Singers",
+    "bio": "Bollywood hit machine; known for Kala Chashma, Garmi, and more; top streaming female artist in India.",
+    "location": "Mumbai",
+    "priceRange": "₹6L–₹12L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLl_hhHLXtnYMd9iPiS9rxc4VSHoLDGyWMA&s"
+  },
+  {
+    "id": 30,
+    "name": "Jubin Nautiyal",
+    "category": "Singers",
+    "bio": "Soothing playback voice behind hits like Tum Hi Aana, Kaabil Hoon, and Lut Gaye; Filmfare winner.",
+    "location": "Dehradun/Mumbai",
+    "priceRange": "₹4L–₹10L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTcOnHhxuXgm3r2o-EmSNejAuNG5GgHJ7j7Q&s"
+  },
+  {
+    "id": 31,
+    "name": "Badshah",
+    "category": "Singers",
+    "bio": "Rap superstar and hitmaker of songs like DJ Waley Babu, Genda Phool; top performer in college fests.",
+    "location": "Delhi/Mumbai",
+    "priceRange": "₹10L–₹20L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTgpQdxZ5ut12os4NG3ONhADcQryJC_Xl_uA&s"
+  },
+  {
+    "id": 32,
+    "name": "Jonita Gandhi",
+    "category": "Singers",
+    "bio": "Classically trained Indo‑Canadian singer; popular for The Breakup Song, Gilehriyaan, and Coke Studio performances.",
+    "location": "Toronto/Mumbai",
+    "priceRange": "₹4L–₹8L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRleOU-p1G9viDP6JET7kjg14r5iTx7doYInQ&s"
+  },
+  {
+    "id": 33,
+    "name": "Armaan Malik",
+    "category": "Singers",
+    "bio": "Young Bollywood sensation; voice of Bol Do Na Zara, Butta Bomma; multilingual global performer.",
+    "location": "Mumbai",
+    "priceRange": "₹6L–₹12L",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROG41ALIiA5qbQTdVZUX4fa3zXINDsygaZUg&s"
+  }
+]
