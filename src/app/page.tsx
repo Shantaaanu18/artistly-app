@@ -104,7 +104,7 @@ export default function HomePage() {
             for your event
           </h1>
           <p className="text-lg sm:text-2xl text-white/90 font-medium mb-8 drop-shadow">
-            India's #1 platform to connect with top artists, speakers, and performers for unforgettable experiences.
+            India&apos;s #1 platform to connect with top artists, speakers, and performers for unforgettable experiences.
           </p>
           <a
             href="/artists"
@@ -212,7 +212,7 @@ export default function HomePage() {
             {[1,2,3].map((i) => (
               <div key={i} className="bg-white rounded-2xl shadow-lg p-6 flex flex-col items-center">
                 <img src={`https://randomuser.me/api/portraits/women/${i+20}.jpg`} alt="User" className="w-16 h-16 rounded-full object-cover mb-3 border-2 border-yellow-400" />
-                <p className="text-gray-700 text-center mb-2">"This platform made booking a celebrity for our event so easy and fun! Highly recommended."</p>
+                <p className="text-gray-700 text-center mb-2">&quot;This platform made booking a celebrity for our event so easy and fun! Highly recommended.&quot;</p>
                 <span className="font-bold text-pink-600">User {i}</span>
               </div>
             ))}
