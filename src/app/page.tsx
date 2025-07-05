@@ -17,18 +17,14 @@ const categories = [
 export default function HomePage() {
   
   const [parallax, setParallax] = useState({ x: 0, y: 0 });
-  const [spotlight, setSpotlight] = useState({ x: 50, y: 50 });
   const heroRef = useRef<HTMLDivElement | null>(null);
   
   const headline = "Discover and book the perfect celebrity for your event";
-  const [typed, setTyped] = useState("");
 
   useEffect(() => {
     let i = 0;
-    setTyped("");
     const interval = setInterval(() => {
       if (i < headline.length) {
-        setTyped(headline.substring(0, i + 1));
         i++;
       } else {
         clearInterval(interval);
@@ -45,18 +41,10 @@ export default function HomePage() {
       const x = ((e.clientX - rect.left) / rect.width) * 100;
       const y = ((e.clientY - rect.top) / rect.height) * 100;
       setParallax({ x: (x - 50) / 10, y: (y - 50) / 10 });
-      setSpotlight({ x, y });
     };
     window.addEventListener("mousemove", handleMouseMove);
     return () => window.removeEventListener("mousemove", handleMouseMove);
   }, []);
-
-  // Add this for static random brands
-  const [brandPartners] = useState(() => [
-    { src: '/brands/google.png', alt: 'Google' },
-    { src: '/brands/spotify.png', alt: 'Spotify' },
-    { src: '/brands/microsoft.png', alt: 'Microsoft' }
-  ]);
 
   return (
     <main className="min-h-screen flex flex-col bg-gradient-to-br from-pink-50 via-yellow-50 to-blue-100">
@@ -276,7 +264,7 @@ export default function HomePage() {
             </details>
             <details className="bg-white rounded-xl shadow p-4">
               <summary className="font-semibold cursor-pointer">Can I get a custom quote?</summary>
-              <p className="mt-2 text-gray-600">Absolutely! Contact us with your requirements and we'll provide a personalized quote.</p>
+              <p className="mt-2 text-gray-600">Absolutely! Contact us with your requirements and we&apos;ll provide a personalized quote.</p>
             </details>
           </div>
         </div>
