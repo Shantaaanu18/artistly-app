@@ -19,7 +19,7 @@ export default function ArtistCard({ artists }: { artists: Artist }) {
   return (
     <TiltMotion tiltFactor={10} scale={1.02} perspective={1000} transitionDuration={0.3}>
       <motion.div
-        className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col border border-gray-100 transition duration-300 hover:shadow-xl"
+        className="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col border border-gray-100 transition duration-300 hover:shadow-xl relative"
         whileHover={{ scale: 1.02 }}
         transition={{ type: "spring", stiffness: 200, damping: 20 }}
       >
@@ -35,7 +35,6 @@ export default function ArtistCard({ artists }: { artists: Artist }) {
             {artists.category}
           </span>
         </div>
-
         <div className="p-4 flex flex-col flex-1">
           <h3 className="text-lg font-bold mb-1">{artists.name}</h3>
           <p className="text-pink-600 font-semibold">{artists.category}</p>
